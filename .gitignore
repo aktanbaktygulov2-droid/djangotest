@@ -1,5 +1,4 @@
 .idea
-.idea/
-config/
-env/
+config
+env
 requirements.txt
